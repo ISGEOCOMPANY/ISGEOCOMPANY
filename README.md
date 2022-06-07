@@ -39,7 +39,7 @@ Our clients are such well known companies and organizations as Beeline, DCC/Aste
 
 02094, Kiev, 54, Popudrenko Street
 
-tel.  [+380 (44) 338 01 82](tel:+380443380182), [+380 (44) 338 01 83](tel:+380443380183)
+tel. <a href="tel:+380443380182">+380 (44) 338 01 82</a>, <a href="tel:+380443380183">+380 (44) 338 01 83</a>
 
 isgeocompany@gmail.com
 
