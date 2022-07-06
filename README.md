@@ -1,4 +1,4 @@
-<a href="http://isgeo.com.ua" target="_blank"><img style="width:100%" src="https://github.com/ISGEOCOMPANY/ISGEOCOMPANY/blob/main/img/header_logo.png" title="Intelligence Systems GEO, Ltd." /></a>
+<a href="http://isgeo.com.ua" target="_blank"><img style="width:100%" src="https://raw.githubusercontent.com/ISGEOCOMPANY/ISGEOCOMPANY/main/img/header_logo.png" title="Intelligence Systems GEO, Ltd." /></a>
 
 # ISGEO - software development, GPS  navigation and logistics, information products | [Intelligence Systems GEO, Ltd](http://www.isgeo.com.ua)
 
