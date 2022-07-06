@@ -37,10 +37,12 @@ Our clients are such well known companies and organizations as Beeline, DCC/Aste
 # Where to Find Us
 ## Location
 
-20002, Kyiv, 6, Mykilsko-Slobidska Street
+<a target="_blank" href="https://www.openstreetmap.org/?mlat=50.45395&amp;mlon=30.58948#map=19/50.45395/30.58948">20002, Kyiv, 6, Mykilsko-Slobidska Street</a>
+
+<iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=30.58824956417084%2C50.453589972092146%2C30.59071719646454%2C50.454317476780886&amp;layer=mapnik&amp;marker=50.45395372583494%2C30.589483380317688" style="border: 1px solid black"></iframe>
 
 isgeo@ukr.net
 
 ## Technical Support
 
-Webmaster -  isgeo@ukr.net
+Webmaster -  <a href="mailto:isgeo@ukr.net?subject=Technical Support">Technical Support</a>
