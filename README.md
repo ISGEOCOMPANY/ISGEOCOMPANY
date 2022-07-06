@@ -37,10 +37,7 @@ Our clients are such well known companies and organizations as Beeline, DCC/Aste
 # Where to Find Us
 ## Location
 
-02094, Kiev, 54, Popudrenko Street
 20002, Kyiv, 6, Mykilsko-Slobidska Street
-
-isgeocompany@gmail.com
 
 isgeo@ukr.net
 
